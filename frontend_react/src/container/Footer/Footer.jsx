@@ -82,8 +82,6 @@ const Footer = () => {
               placeholder="Your Message"
               value={message}
               name="message"
-              cols="30"
-              rows="10"
               onChange={handleChangeInput}
             ></textarea>
           </div>
